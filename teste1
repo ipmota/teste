@@ -1,0 +1,7 @@
+trigger:
+- master
+
+steps:
+- template: teste1.yml
+- template: teste2.yml
+- template: teste3.yml
